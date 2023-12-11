@@ -12,3 +12,8 @@ i made this cuz are too pissed about issues build log haxe lol, so i made a fixe
 `haxelib install hmm && haxelib run hmm install` on a fnf project, remember to put the `hmm.json` file in the folder contains `Project.xml`
 
 for using Psych Engine, you need to using haxe 4.2.5 on all version cuz using the new one give alot of error stuff
+
+# Suggest??
+A suggest can help me to make more `hmm.json` for everyone can be able to build their source without issues about build!!
+
+If you also give a code, im pleasure alot!! and credits you!
